@@ -1,0 +1,60 @@
+<resources>
+
+    <!-- app name -->
+    <string name="app_name">Word\'s Game</string>
+
+    <!-- labels -->
+    <string name="vers_of_game">Версія гри - 1.0</string>
+
+    <string-array name="time_out">
+        <item>До головного меню</item>
+        <item>Спробувати ще раз</item>
+        <item>Вибрати іншу складність</item>
+    </string-array>
+
+    <string-array name="lvl_comp">
+        <item>До головного меню</item>
+        <item>Спробувати ще раз</item>
+        <item>Пройти ще один рівень</item>
+    </string-array>
+
+    <string-array name="all_lvl_comp">
+        <item>До головного меню</item>
+        <item>Вибрати іншу складність</item>
+    </string-array>
+
+    <!-- Social networks -->
+    <string name="vk_app_id">4854471</string>
+
+    <!-- Fonts -->
+    <string name="font_lobster" translatable="false">lobster.ttf</string>
+    <string name="font_p" translatable="false">permanent.ttf</string>
+    <string name="font_i_flower" translatable="false">indieFlower.ttf</string>
+    <string name="font_comic" translatable="false">comic.ttf</string>
+
+    <!-- Buttons -->
+    <string name="btn_game">Гра</string>
+    <string name="btn_records">Рекорди</string>
+    <string name="btn_settings">Налаштування</string>
+    <string name="btn_help">Довідка</string>
+    <string name="btn_game_classic">Класичний</string>
+    <string name="btn_game_arcade">Аркадний</string>
+    <string name="btn_easy">Легкий</string>
+    <string name="btn_middle">Середній</string>
+    <string name="btn_hard">Важкий</string>
+    <string name="btn_new">Нова гра</string>
+    <string name="btn_cont">Продовжити</string>
+
+    <!-- Other -->
+    <string name="what_is_the_game_tittle">Що це за гра?</string>
+    <string name="what_is_the_game_text">Words game - це гра, завданням якої є відгадування слів</string>
+
+    <string name="how_to_play_tittle">Правила гри</string>
+    <string name="how_to_play_text">Правила гри прості: завдання розподіленні по рівням, які складаються з 9 або 16 літер, що
+         сформовані в поля 3х3 або 4х4 відповідно. Для того, щоб відгадати слово необхідно виділити його, затиснувши пальцем
+        першу літеру та правильно виділивши інші літери відгадуванного слова у потрібному порядку. Відгадане слово буде
+        зафарбоване іншим кольором. Гра має два режими: класичний та аркадний. У класичному режимі завдання полягає у тому,
+        щоб просто відгадати слова. Аркадний режим поділяється за складністю, від якої залежить час на виконання та кількість
+        слів на ігровому полі.
+    </string>
+</resources>
